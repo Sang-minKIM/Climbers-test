@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "climbers-test",
+    "slug": "climbers-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "climbers-test"
+}
