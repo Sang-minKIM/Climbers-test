@@ -11,7 +11,7 @@ const HomeScreen = () => {
     <Container>
       <Video
         source={{
-          uri: "https://www.youtube.com/watch?v=mpSmBuco6I0",
+          uri: "/Users/kimsangmin/Documents/climbers-test/climbers-test/video/IMG_9019_AdobeCreativeCloudExpress.mp4",
         }} // Can be a URL or a local file.
       />
     </Container>
